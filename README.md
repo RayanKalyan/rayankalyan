@@ -1,73 +1,57 @@
 <div align="center">
 
-# ⚡ RAYAN KALYAN ⚡
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=RAYAN%20KALYAN&fontSize=70&color=0:0f0c29,50:302b63,100:24243e&stroke=ffffff&fontColor=ffffff&animation=fadeIn&fontAlignY=50"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI-Powered+Application+Developer;Cinematic+Frontend+Engineer;Unity+Game+Developer;Building+Software+That+Feels+Futuristic;React+%2B+Vite+%2B+Gemini+%2B+Spotify;Immersive+UX+%26+Interactive+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI-Powered+Application+Developer;Cinematic+Frontend+Engineer;Unity+Gameplay+Programmer;Building+Experiences+That+Feel+Futuristic;React+%2B+Vite+%2B+Gemini+%2B+Spotify;Immersive+UI%2FUX+Systems" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=rayankalyan&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=rayankalyan&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
 <br><br>
 
 <a href="mailto:rayankalyan71@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/rayan-kalyan-579a502a0/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/rayankalyan">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 🌌 SYSTEM OVERVIEW
+# 🌌 ABOUT ME
 
-```yaml
-Name: Rayan Kalyan
-Role: Frontend + AI Systems Developer
-Education: B.Tech ECE @ MNIT Jaipur
-Focus:
-  - AI Powered Applications
-  - Cinematic UI/UX
-  - Frontend Engineering
-  - Interactive Systems
-  - Unity Gameplay Programming
-Currently Building:
-  - Intelligent Recommendation Systems
-  - AI Enhanced Web Experiences
-  - Real-Time Interactive Interfaces
-```
+<img align="right" width="380" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJ4YW16M2R3Ym9hM3d4bG9jdWZlZHFqYXFmMmFpc3llZ29mY3QxbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif">
 
----
+### ⚡ Electronics & Communication Engineering Student @ MNIT Jaipur
 
-# 🚀 ABOUT ME
+I build:
+- 🎵 AI-powered applications
+- 🌌 Cinematic user experiences
+- ⚡ Interactive frontend systems
+- 🎮 Gameplay mechanics & game logic
+- 🤖 Intelligent recommendation systems
 
-```cpp
-class RayanKalyan {
-    
-    public:
-    
-        string role = "Frontend & AI Developer";
-        
-        vector<string> interests = {
-            "Cinematic Interfaces",
-            "AI Systems",
-            "Unity Game Development",
-            "Immersive UX",
-            "Modern Frontend Architecture"
-        };
+I love combining:
+- modern frontend engineering
+- immersive visual design
+- real-time interactions
+- AI integrations
+- futuristic aesthetics
 
-        string philosophy = 
-        "Software should not just work. "
-        "It should FEEL futuristic.";
-};
-```
+<br>
+
+> ### “Software should not just work.  
+> ### It should feel alive.”
+
+<br clear="right"/>
 
 ---
 
@@ -75,73 +59,60 @@ class RayanKalyan {
 
 <div align="center">
 
-## 💻 LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,javascript" />
-
-<br><br>
-
-## 🌐 FRONTEND
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" />
-
-<br><br>
-
-## 🔥 BACKEND & TOOLS
-
-<img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,unity" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,javascript,react,vite,tailwind,firebase,git,github,vscode,unity&theme=dark" />
 
 </div>
 
 ---
 
-# 🎵 FEATURED PROJECT — VIBESYNC AI
+# 🚀 FEATURED PROJECT
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=140&section=header&text=VibeSync%20AI&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=180&text=VibeSync%20AI&fontSize=55&color=0:8E2DE2,100:4A00E0&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
-## 🌌 WHAT IS IT?
+## 🎵 AI-Powered Cinematic Spotify Recommendation Engine
 
-> An AI-powered cinematic Spotify recommendation engine that transforms human emotion into personalized music experiences.
+VibeSync AI transforms natural-language emotions into personalized music experiences using:
+- **Google Gemini**
+- **Spotify APIs**
+- **React + Vite**
+- **TailwindCSS**
+- **OAuth PKCE Authentication**
 
-### ⚡ CORE FEATURES
+### ✨ Features
 
 - 🎧 Natural-language vibe parsing
-- 🤖 Google Gemini integration
-- 🌌 Cinematic glassmorphism UI
-- 🔐 Spotify OAuth PKCE authentication
-- ⚡ Real-time playlist generation
+- 🌌 Glassmorphism cinematic UI
+- ⚡ Real-time recommendation generation
+- 🔐 Secure Spotify authentication
 - 🌍 Global music market support
+- 🤖 AI-powered playlist intelligence
 
----
-
-# 🧠 CURRENT FOCUS
+<br>
 
 <div align="center">
 
-| AI Systems | Frontend Engineering | Real-Time UX |
-|---|---|---|
-| Recommendation Engines | React Architecture | Motion Systems |
-| Gemini API | Vite + Tailwind | Interactive UI |
-| AI Integrations | Glassmorphism UI | Immersive Design |
+<a href="https://github.com/rayankalyan/VibeSyncAI">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-ffffff?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
 </div>
 
 ---
 
-# 🚀 PROJECT SHOWCASE
+# 🌠 PROJECT SHOWCASE
 
 <div align="center">
 
-| 🚀 Project | ⚡ Description | 🛠 Stack |
-|---|---|---|
-| 🎵 **VibeSync AI** | AI-powered cinematic Spotify recommendation engine | React, Gemini, Spotify API |
-| 🎮 **Unity 2D Action Game** | FSM-driven combat & enemy AI systems | Unity, C# |
-| 💬 **FireGram** | Real-time Firebase chat application | React, Firebase |
-| 📊 **CoreLine** | Productivity analytics & roadmap platform | React, Firestore |
+| 🚀 Project | 🌌 Description |
+|---|---|
+| 🎵 **VibeSync AI** | AI-powered cinematic Spotify recommendation engine |
+| 🎮 **Unity 2D Action Game** | FSM enemy AI, combat systems, animation handling |
+| 💬 **FireGram** | Real-time Firebase chat application |
+| 📊 **CoreLine** | Productivity & analytics platform |
 
 </div>
 
@@ -173,37 +144,27 @@ class RayanKalyan {
 
 ---
 
-# 🏆 ACHIEVEMENTS
+# 🏆 GITHUB TROPHIES
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rayankalyan&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rayankalyan&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12"/>
 
 </div>
 
 ---
 
-# 🌌 DEVELOPER PHILOSOPHY
+# 🌌 CURRENT FOCUS
 
 <div align="center">
 
-```diff
-+ Build things that feel alive
-+ Create software with personality
-+ Make interfaces immersive
-+ Blend engineering with aesthetics
-+ Push beyond "just functional"
-```
-
-</div>
-
----
-
-# ⚡ CURRENT STATUS
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Designing+Cinematic+Interfaces;Building+AI-Powered+Experiences;Learning+Something+New+Every+Day;Turning+Ideas+Into+Reality" />
+| ⚡ Area | 🚀 Focus |
+|---|---|
+| Frontend Engineering | Cinematic UI Systems |
+| AI Applications | Recommendation Engines |
+| Game Development | FSM Gameplay Logic |
+| UX Design | Interactive Experiences |
+| Web Systems | Real-Time Applications |
 
 </div>
 
@@ -214,15 +175,15 @@ class RayanKalyan {
 <div align="center">
 
 <a href="mailto:rayankalyan71@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/rayan-kalyan-579a502a0/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/rayankalyan">
-  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -231,9 +192,10 @@ class RayanKalyan {
 
 <div align="center">
 
-# ⚡ "I DON'T JUST BUILD APPS.  
-# I BUILD EXPERIENCES."
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0f0c29,50:302b63,100:24243e&section=footer"/>
 
 </div>
